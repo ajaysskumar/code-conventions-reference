@@ -1,0 +1,11 @@
+Generate a clear, concise commit message describing the changes in this commit. Use appropriate emojis to indicate the type of work:
+	•	🐛 for bug fixes
+	•	🚧 for work in progress
+	•	✨ for new features
+	•	🔧 for refactoring
+	•	📝 for documentation updates
+	•	✅ for completed or finalized work
+	•	♻️ for code cleanup or optimization
+	•	🔒 for security-related changes
+Keep the message under 72 characters for the subject line, and optionally include a brief description in the body if needed.”
+It is important that the message contains the name of the developer take it from git config of the repository. A sample message would be "[Ajay kumar]: ♻️ Cleanup background job and optimized the performance
